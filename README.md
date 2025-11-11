@@ -18,7 +18,10 @@ My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
  
  **2025.7**: &nbsp;🎉🎉 One paper have been accepted by **Image and Vision Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0262885625001003'>MMGS</a>！
 
+## 🏆 Awards
 
+**2024-2025** National Scholarship
+**2023-2024** National Scholarship
 <!--
 **ChangyueShi/ChangyueShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
