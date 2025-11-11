@@ -16,7 +16,7 @@ My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
  
  **2025.7**: &nbsp;🎉🎉 One paper have been accepted by **Applied Soft Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S1568494625008415'>TAGS</a>！
  
- **2025.7**: &nbsp;🎉🎉 One paper have been accepted by **Image and Vision Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0262885625001003'>MMGS</a>！
+ **2025.3**: &nbsp;🎉🎉 One paper have been accepted by **Image and Vision Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0262885625001003'>MMGS</a>！
 
 ## 🏆 Awards
 
