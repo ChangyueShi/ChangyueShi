@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a fourth-year undergraduate student of Hangzhou Dianzi University. I will be joining Peking University, advised by Prof. **[Li Yuan (PKU, 袁粒)](https://yuanli2333.github.io/)**.
+I am a fourth-year undergraduate student of Hangzhou Dianzi University. I will be joining Peking University in 2026.
 
 My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
 
