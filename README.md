@@ -12,7 +12,7 @@ My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
  
  **2025.11**: &nbsp;🎉🎉 One paper have been accepted by **AAAI 2026 Poster**-- <a href='https://changyueshi.github.io/Sparse4DGS'>Sparse4DGS</a>！
 
- **2025.10**: &nbsp;🎉🎉 One paper have been publicly available in arXiv -- <a href='https://changyueshi.github.io/REALM'>REALM</a>！
+ **2025.10**: &nbsp;🎉🎉 One paper is publicly available in arXiv -- <a href='https://changyueshi.github.io/REALM'>REALM</a>！
  
  **2025.7**: &nbsp;🎉🎉 One paper have been accepted by **Applied Soft Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S1568494625008415'>TAGS</a>！
  
