@@ -6,6 +6,8 @@ My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
 
 - Google Scholar: 🔭 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=SWdsLWQAAAAJ)
 
+At the same time, I am also a music enthusiast. 🎤I love both vocal and instrumental music, and I enjoy singing as well as playing the piano 🎹 and guitar 🎸.
+
 ## 🔥 News
 
  **2025.11**: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026 Oral**-- <a href='https://xinyuanhu66.github.io/SRSplat/'>SRSplat</a>！
