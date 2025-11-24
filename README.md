@@ -1,4 +1,4 @@
-## Hi there 👋
+## Changyue Shi (施昌岳) 👋
 
 I am a fourth-year undergraduate student of Hangzhou Dianzi University. I will be joining Peking University in 2026.
 
