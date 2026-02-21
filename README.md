@@ -10,11 +10,11 @@ I am also a music enthusiast. I love both vocal and instrumental music, and I en
 
 ## 🔥 News
 
+ **2026.2**: &nbsp;🎉🎉 One paper has been accepted by **CVPR 2026** -- <a href='https://changyueshi.github.io/REALM'>REALM</a>！
+ 
  **2025.11**: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026 Oral**-- <a href='https://xinyuanhu66.github.io/SRSplat/'>SRSplat</a>！
  
  **2025.11**: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026 Poster**-- <a href='https://arxiv.org/abs/2511.07122'>Sparse4DGS</a>！
-
- **2025.10**: &nbsp;🎉🎉 One paper is publicly available in arXiv -- <a href='https://changyueshi.github.io/REALM'>REALM</a>！
  
  **2025.7**: &nbsp;🎉🎉 One paper has been accepted by **Applied Soft Computing**-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S1568494625008415'>TAGS</a>！
  
