@@ -1,7 +1,5 @@
 ## Changyue Shi (施昌岳) 👋
 
-I am a fourth-year undergraduate student of Hangzhou Dianzi University. I will be joining Peking University in 2026.
-
 My core research focuses on **3D/4D Reconstruction and Spatial Intelligence**
 
 - Google Scholar: 🔭 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=SWdsLWQAAAAJ)
